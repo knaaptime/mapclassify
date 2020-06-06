@@ -11,4 +11,4 @@ dependencies:
   - jupyter
   - jupyterlab
   - nbconvert
-  - brewer2mpl
+  - palettable
